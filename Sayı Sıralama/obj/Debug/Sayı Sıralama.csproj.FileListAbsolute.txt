@@ -1,0 +1,6 @@
+C:\Users\Can\Desktop\Sayı Sıralama\Sayı Sıralama\bin\Debug\Sayı Sıralama.exe.config
+C:\Users\Can\Desktop\Sayı Sıralama\Sayı Sıralama\bin\Debug\Sayı Sıralama.exe
+C:\Users\Can\Desktop\Sayı Sıralama\Sayı Sıralama\bin\Debug\Sayı Sıralama.pdb
+C:\Users\Can\Desktop\Sayı Sıralama\Sayı Sıralama\obj\Debug\Sayı Sıralama.csprojResolveAssemblyReference.cache
+C:\Users\Can\Desktop\Sayı Sıralama\Sayı Sıralama\obj\Debug\Sayı Sıralama.exe
+C:\Users\Can\Desktop\Sayı Sıralama\Sayı Sıralama\obj\Debug\Sayı Sıralama.pdb
